@@ -18,4 +18,4 @@ MYZHIBEI科学计算器
 
 pi 表示 π
 
-可支持例如 -31+(4*sqrt(2)-5)/6+sin(pi/4)这样的表达式
+可支持例如 -31+(4*sqrt(2)-5)/6+sin(pi/4)这样的表达式![流程框图](https://gitee.com/myzhibei/img/raw/master/%E6%B5%81%E7%A8%8B%E6%A1%86%E5%9B%BE.svg)
